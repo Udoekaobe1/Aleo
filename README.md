@@ -1,3 +1,5 @@
+During the bootcamp, the following are the details of what i carried out and the images as evidence.
+
 # ALEO WORKSHOP 1 
 ## Deployment Link: https://explorer.aleo.org/transaction/at1nzdvqt4v4fyujkyhpv48d7hw0gc3t6teynk3g7y9z6z8kn8qp5psz4ev28
 ### Deployment ID: at1nzdvqt4v4fyujkyhpv48d7hw0gc3t6teynk3g7y9z6z8kn8qp5psz4ev28
