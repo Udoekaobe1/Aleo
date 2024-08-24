@@ -50,4 +50,7 @@ For my aleo_voice_2, I Wrote the codes using the following
 ![Screenshot (921)](https://github.com/user-attachments/assets/49bf9565-b317-428f-bb67-e87bfcff49e0)
 ![Screenshot (922)](https://github.com/user-attachments/assets/9c20c86f-2572-4d4f-8d6c-4bdea94b99a7)
 
+#Wallet Screenshots
+![Screenshot (938)](https://github.com/user-attachments/assets/1995355a-685b-47b2-9147-32994eb78e24)
+![Screenshot (939)](https://github.com/user-attachments/assets/145fd186-3bff-430f-a69c-18572ec788f3)
 
