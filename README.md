@@ -3,11 +3,12 @@
 ### Deployment ID: at1nzdvqt4v4fyujkyhpv48d7hw0gc3t6teynk3g7y9z6z8kn8qp5psz4ev28
 #### Description of Steps Used
 For my second_leo, I wrote the following code accordingly:
-- leo new my_project_name: This was to create my project
-- cd my_project_name: To change directory to current working directory
+- leo new my_second_leo: This was to create my project named my_second_leo
+- cd my_second_leo: To change directory to current working directory
 - Changed the private key in the .env file to the private key in my leo wallet
 - leo run 2u32 3u32 --network testnet: This was to add the two numbers which gave us 5u32. u32 is the datatype
-- leo deploy --network testnet: This made it possible for us to see the changes/activities on our leo wallet
+- leo deploy --network testnet: This made it possible for us to see the changes/activities on our leo wallet.
+i fee was deducted from the aleo wallet.
 
 ##### Screenshot
 ![Screenshot (913)](https://github.com/user-attachments/assets/4662df35-7ef2-4e13-94f7-7ffe2d7f939b)
@@ -18,12 +19,14 @@ For my second_leo, I wrote the following code accordingly:
 #### Description of Steps Used
 For my leo_project_token, I Wrote the codes using the following
 - ../ to go to the previous directory
-- cd my_project_name: To change directory to current working directory
+- leo_new_project_token: to create a new project with the name project token.
+- cd project_token: To change directory to current working directory
 - Changed the private key in the .env file to the private key in my leo wallet
-- leo run mint <my_aleo_address> <amount>u64; e.g leo run mint aleo1fgftssyjrxh58gcw5ngnre7ttp6s5h9h70l93ltlkmmdmza58yxsdctefv 100u64
+- leo run mint <my_aleo_address> <amount>u64; e.g leo run mint aleo1fgftssyjrxh58gcw5ngnre7ttp6s5h9h70l93ltlkmmdmza58yxsdctefv 100u64, that is what i used.
 - leo run transfer "<Token_Record>" <to_address> <amount>u64
 - We were  able to use the generated record from 1st command to input into the second command's first input and then our to address and amount
 - leo deploy --network testnet
+- a gas of 7 credits was charged.
 
 ##### Screenshot
 ![Screenshot (919)](https://github.com/user-attachments/assets/dd319383-ec3d-43da-8103-0c24f7697f0a)
